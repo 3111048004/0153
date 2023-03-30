@@ -1,0 +1,8 @@
+@charset "utf-8";
+body div h1 {
+    margin-right: auto;
+    background-color: #145B78;
+    color: #FFFFFF;
+    margin-left: auto;
+    text-align: center;
+}
